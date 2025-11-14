@@ -1,24 +1,17 @@
-## Hi there 👋
 
-<!--
-**lydbsdud/lydbsdud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 기술 스택
 
-Here are some ideas to get you started:
+* **언어:** Java (Spring Boot), Kotlin
+* **프레임워크:** Spring Boot, Spring Security, JPA 
+* **데이터베이스:** MySQL, Redis
+* **인프라 / 배포:** Docker, Docker Compose, Nginx, AWS(EC2, RDS, S3), GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=lydbsdud&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/lydbsdud"
-  width="600"
-  height="300"
-/>
-</a>
+## 연락처
+
+* 이메일: lydbsdud@gmail.com
+* 깃허브: [https://github.com/lydbsdud](https://github.com/](https://github.com/lydbsdud))
+* LinkedIn: [https://www.linkedin.com/in/](https://www.linkedin.com/in/](https://www.linkedin.com/in/%EC%9C%A4%EC%98%81-%EC%9D%B4-8ba451318/))
+
+---
