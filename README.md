@@ -12,6 +12,5 @@
 
 * 이메일: lydbsdud@gmail.com
 * 깃허브: [https://github.com/lydbsdud](https://github.com/](https://github.com/lydbsdud))
-* LinkedIn: [https://www.linkedin.com/in/](https://www.linkedin.com/in/](https://www.linkedin.com/in/%EC%9C%A4%EC%98%81-%EC%9D%B4-8ba451318/))
 
 ---
