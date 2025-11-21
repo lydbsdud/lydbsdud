@@ -33,7 +33,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=lydbsdud&bg_color=180,00000000,00000000&title_color=006aff&text_color=000000&icon_color=006aff" />
   </div>
   <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lydbsdud" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lydbsdud" />
     </div>
 </div>
 
